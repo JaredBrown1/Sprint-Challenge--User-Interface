@@ -266,3 +266,31 @@ footer nav a {
     align-items: center;
     justify-content: center;
 }
+
+.double-img1-desc {
+    display: flex;
+}
+
+.desc1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.desc2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.double-img2-desc {
+    display: flex;
+}
+
+.desc3 {
+    display: flex;
+    flex-direction: column;
+}
+
+.desc4 {
+    display: flex;
+    flex-direction: column;
+}
